@@ -1,6 +1,6 @@
 {
   "name": "webgl2-core-extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "list of extensions promoted to core in WebGL2",
   "main": "index.js",
   "license": "MIT",
