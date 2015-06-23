@@ -1,0 +1,44 @@
+{
+  "name": "webgl2-core-extensions",
+  "version": "1.0.0",
+  "description": "list of extensions promoted to core in WebGL2",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "extensions",
+    "promoted",
+    "core",
+    "promote",
+    "webgl",
+    "gl",
+    "stackgl",
+    "glsl",
+    "is",
+    "supported",
+    "webgl2",
+    "2.0",
+    "2",
+    "gl2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/webgl2-core-extensions.git"
+  },
+  "homepage": "https://github.com/Jam3/webgl2-core-extensions",
+  "bugs": {
+    "url": "https://github.com/Jam3/webgl2-core-extensions/issues"
+  }
+}
