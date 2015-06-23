@@ -2,7 +2,7 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-This module contains a list of extensions that have been promoted to core in WebGL2.
+This module provides an array of extension names that have been promoted to core in WebGL2.
 
 ```js
 var core = require('webgl2-core-extensions')
