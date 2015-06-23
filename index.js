@@ -5,7 +5,7 @@ module.exports = [
   'EXT_frag_depth',
   'WEBGL_depth_texture',
   'EXT_shader_texture_lod',
-  'OES_standard_derivatives'.
+  'OES_standard_derivatives',
   'OES_texture_float',
   'OES_texture_half_float',
   'OES_vertex_array_object',
