@@ -4,6 +4,7 @@ module.exports = [
   'EXT_blend_minmax',
   'EXT_frag_depth',
   'WEBGL_depth_texture',
+  'WEBKIT_WEBGL_depth_texture',
   'EXT_shader_texture_lod',
   'OES_standard_derivatives',
   'OES_texture_float',
